@@ -13,25 +13,27 @@ Simulated Annealing implementation using Python 3.6.
   -10 <= X1, X2 <= 10
 
 ## Parameters
-  Temperature: affect the number of iteration
-      Value: 1000
+Temperature: affect the number of iteration
+      
+> Value: 1000
 
-  Cooling Rate: parameter for decreasing the temperature
-      Value: 0.99
+Cooling Rate: parameter for decreasing the temperature
+      
+> Value: 0.99
 
 ## Solution
-   One of the global optimum for this function is:
+One of the global optimum for this function is:
    
-   X1 : 8.0729
+X1 : 8.0729
    
-   X2 : -9.6621
+X2 : -9.6621
    
-   Cost : -19.2052
+Cost : -19.2052
 
 ## Visualization
-  Visualizing all possible cost using contour plot
+Visualizing all possible cost using contour plot
   
-  ![Image of Visualization](https://cdn1.imggmi.com/uploads/2018/9/24/25e09313675b886cd4ef6b960b62719f-full.png)
+![Image of Visualization](https://cdn1.imggmi.com/uploads/2018/9/24/25e09313675b886cd4ef6b960b62719f-full.png)
 
 > x-axis is value of X1
 
