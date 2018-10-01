@@ -6,8 +6,7 @@ Simulated Annealing implementation using Python 3.6.
 
 ## Objective Function
   Function that will be used for this implementation. 
-  ![Image of Function]
-  (https://cdn1.imggmi.com/uploads 2018/10/1/571a1284a54fd46e41cf227a077c85d2-full.png)
+  ![Image of Function](https://cdn1.imggmi.com/uploads 2018/10/1/571a1284a54fd46e41cf227a077c85d2-full.png)
 
 ## Constraint
   -10 <= X1, X2 <= 10
@@ -28,8 +27,7 @@ Simulated Annealing implementation using Python 3.6.
 ## Visualization
   Visualizating all possible cost using contour plot
   
-  ![Image of Visualization]
-  (https://cdn1.imggmi.com/uploads/2018/9/24/25e09313675b886cd4ef6b960b62719f-full.png)
+  ![Image of Visualization](https://cdn1.imggmi.com/uploads/2018/9/24/25e09313675b886cd4ef6b960b62719f-full.png)
 
 > x-axis is value of X1
 
