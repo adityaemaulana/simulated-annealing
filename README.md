@@ -6,6 +6,7 @@ Simulated Annealing implementation using Python 3.6.
 
 ## Objective Function
   Function that will be used for this implementation. 
+
   ![Image of Function](https://cdn1.imggmi.com/uploads 2018/10/1/571a1284a54fd46e41cf227a077c85d2-full.png)
 
 ## Constraint
@@ -20,8 +21,11 @@ Simulated Annealing implementation using Python 3.6.
 
 ## Solution
    One of the global optimum for this function is:
+   
    X1 : 8.0729
+   
    X2 : -9.6621
+   
    Cost : -19.2052
 
 ## Visualization
