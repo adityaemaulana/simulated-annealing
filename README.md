@@ -7,7 +7,7 @@ Simulated Annealing implementation using Python 3.6.
 ## Objective Function
   Function that will be used for this implementation. 
 
-  ![Image of Function](https://cdn1.imggmi.com/uploads/2018/10/1/571a1284a54fd46e41cf227a077c85d2-full.png)
+  ![Image of Function](https://cdn1.imggmi.com/uploads/2018/10/1/be0008d51d0922ed2fa69d705b1a3663-full.png)
 
 ## Constraint
   -10 <= X1, X2 <= 10
