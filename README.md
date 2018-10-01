@@ -29,7 +29,7 @@ Simulated Annealing implementation using Python 3.6.
    Cost : -19.2052
 
 ## Visualization
-  Visualizating all possible cost using contour plot
+  Visualizing all possible cost using contour plot
   
   ![Image of Visualization](https://cdn1.imggmi.com/uploads/2018/9/24/25e09313675b886cd4ef6b960b62719f-full.png)
 
