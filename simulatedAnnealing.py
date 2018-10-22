@@ -52,7 +52,7 @@ def simulatedAnnealing(x1, x2, x1b, x2b, Eb, E, T, stopT, alpha):
                 x2 = x2n
                 E = Eb
 
-        T *= alpha
+        T -= alpha
 
     print(f'Energy: {Eb} X1: {x1b} X2: {x2b}')
     return
@@ -64,9 +64,9 @@ x2 = x2b = generate()
 E = Eb = objective(x1, x2)
     
 # initialize temperature, stop temperature, and cooling rate
-T = 1000
+T = 150000
 stopT = 1
-alpha = 0.99
+alpha = 1
 
 # run simulated annealing
 simulatedAnnealing(x1, x2, x1b, x2b, Eb, E, T, stopT, alpha)
